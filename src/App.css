@@ -58,7 +58,7 @@ form input {
 }
 
 .todo_container {
-  width: fit-content;
+  width: 50%;
   margin: 0 auto;
 }
 .todo {
@@ -92,7 +92,7 @@ form input {
   border-radius: 50%;
 }
 #i {
-  font-size: 35px;
+  font-size: 30px;
 }
 .button-complete {
   color: #13c02a;
